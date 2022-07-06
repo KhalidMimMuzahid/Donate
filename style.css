@@ -191,9 +191,10 @@ body{
 }
 #half-box-1{
     width: 30%;
+    margin-left: 9%;
 }
 #half-box-2{
-    width: 50%;
+    width: 46%;
 }
 #visit-now{
     margin-top: 50px;
